@@ -1,4 +1,4 @@
-package br.com.estudo;
+package br.com.estudo.Greeting;
 
 public class Greeting {
     private final long id;
